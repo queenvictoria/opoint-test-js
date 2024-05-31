@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "node index.js",
+    "test": ""
+  },
+  "dependencies": {
+    "@opoint/storedsearch": "^0.0.12"
+  }
+}
